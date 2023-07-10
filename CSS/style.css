@@ -1,0 +1,34 @@
+/* Arquivo: estilo.css */
+:root {
+    --font-size: 16px; 
+  }
+  
+body {
+  font-size: var(--font-size);
+}
+
+h1, h2 {
+  font-size: calc(var(--font-size) * 2); 
+}
+
+p {
+  font-size: var(--font-size);
+}
+
+  
+  #hero-section {
+    color:white;
+  }
+
+  .text-right {
+    font-size: 18px;
+    margin-top: 20px; 
+    margin-right: 5px; 
+    text-align: right;
+  }
+
+  body {
+    background-color: #9fb2c5; /* Substitua #FF0000 pela cor desejada */
+  }
+  
+
