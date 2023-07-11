@@ -7,10 +7,10 @@ This is my portfolio project, developed using the Bootstrap framework. The aim o
 
 Before diving into the details of my projects, you can have a visual preview of my portfolio through the screenshot below:
 
-![Screenshot1](images/screen1.jpg)
-![Screenshot2](images/screen2.jpg)
-![Screenshot3](images/screen3.jpg)
-![Screenshot4](images/screen4.jpg)
+![Screenshot1](./Images/screen1.jpg)
+![Screenshot2](./Images/screen2.jpg)
+![Screenshot3](./Images/screen3.jpg)
+![Screenshot4](./Images/screen4.jpg)
 
 
 ## Overview
@@ -38,7 +38,8 @@ Effective collaboration in multidisciplinary teams, leveraging my technical and 
 
 ## Installation
 
-git@github.com:Camilasbarros/Bootstrap-Portfolio.git
+Git clone using this link: `git@github.com:Camilasbarros/Bootstrap-Portfolio.git`
+Open in browser
 
 
 ## Resources and Functionality:
@@ -70,3 +71,10 @@ Camila Barros
 
 ## License
 This project is licensed under the MIT License. See the (LICENSE) file for details.
+
+
+## Link to GitHub
+git@github.com:Camilasbarros/Bootstrap-Portfolio.git
+
+## Link to Deployed Application
+https://camilasbarros.github.io/Bootstrap-Portfolio/
